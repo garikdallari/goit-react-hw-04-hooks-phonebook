@@ -1,0 +1,11 @@
+body {
+  background-color: #fafafa;
+  background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-light.png");
+  margin: 0;
+  font-family: "Source Code Pro", monospace;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
